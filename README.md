@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##This is a article creater that write by rails 
+###### You can write article in markdown and get html back in view
 
-Things you may want to cover:
+## Something about the prject
+* Rails Vesion: 3.0.0
+* Used gem: redcarpet ~> 3.5
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
