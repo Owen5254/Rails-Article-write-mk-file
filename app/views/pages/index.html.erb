@@ -1,0 +1,9 @@
+<h1>Articles</h1>
+
+<%= link_to 'new', new_page_path %>
+
+<table>
+    <% @pages.each do |page| %>
+        <h2><%= link_to page.title, page %></h2> 
+    <% end %>
+</table>
